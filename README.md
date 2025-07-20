@@ -2,6 +2,6 @@
 
 - Article: https://doi.org/10.48550/arXiv.2503.05591
 - Raw data: 
-https://pubchem.ncbi.nlm.nih.gov/bioassay/686978
-https://pubchem.ncbi.nlm.nih.gov/bioassay/1996
+- https://pubchem.ncbi.nlm.nih.gov/bioassay/686978
+- https://pubchem.ncbi.nlm.nih.gov/bioassay/1996
 
