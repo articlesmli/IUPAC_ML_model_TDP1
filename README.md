@@ -8,7 +8,7 @@ https://github.com/articlesmli/G9a_Inhibitors_efficacy/tree/main
 https://doi.org/10.48550/arXiv.2503.05591
 
 Final: 
-- The most desirable functional grpoup/fragment:
+- The most desirable functional grpoup/fragment: https://github.com/articlesmli/IUPAC_ML_model_TDP1/blob/main/IUPAC_ML_model/5.5.TDP1_group_all_dfs.ipynb
 - The least desirable functional group/fragment:
   
 Final ML models: 
