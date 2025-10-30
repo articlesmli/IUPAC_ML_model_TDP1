@@ -9,7 +9,7 @@ https://doi.org/10.48550/arXiv.2503.05591
 
 Final: 
 - The most desirable functional grpoup/fragment: https://github.com/articlesmli/IUPAC_ML_model_TDP1/blob/main/IUPAC_ML_model/5.5.TDP1_group_all_dfs.ipynb
-- The least desirable functional group/fragment:
+- The least desirable functional group/fragment: https://github.com/articlesmli/IUPAC_ML_model_TDP1/blob/main/IUPAC_ML_model/5.5.TDP1_group_all_dfs_ZEROS.ipynb
   
 Final ML models: 
 - IUPAC based: https://github.com/articlesmli/IUPAC_ML_model_TDP1/blob/main/IUPAC_ML_model/3.1.ML_IUPAC_no_PCA_select_functional_groups.ipynb
