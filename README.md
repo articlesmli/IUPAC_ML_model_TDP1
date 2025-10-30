@@ -13,6 +13,6 @@ Final:
   
 Final ML models: 
 - IUPAC based:
-- CID_SID ML model
+- CID_SID ML model: https://github.com/articlesmli/IUPAC_ML_model_TDP1/blob/main/CID_SID_ML_model/dataset_generation%26development_TDP1_CID_SID_ML_model.ipynb
 
 
