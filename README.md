@@ -4,7 +4,8 @@ https://github.com/articlesmli/G9a_Inhibitors_efficacy/tree/main
 
 # --------------------------------------------------------------
 
-##  The current repository is for "Leveraging of the IUPAC Names and Machine Learning for Assisting Drug Discovery and Development, demonstrated on the Case of Human Tyrosyl-DNA Phosphodiesterase 1 (TDP1) Inhibitors" 
+##  IUPAC-Induced Computational Approaches for Identifying Boosters of Small Biomolecule Functionality: A Case Study of Human Tyrosyl-DNA Phosphodiesterase 1 (TDP1) Inhibitors"
+
 https://doi.org/10.48550/arXiv.2503.05591
 
 ### Final: 
