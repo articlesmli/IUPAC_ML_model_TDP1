@@ -1,10 +1,12 @@
 
-# A note: Please, for "Targeting neurodegeneration: three machine learning methods for G9a inhibitors discovery using PubChem and scikit-learn",  plese, go to
+# A note: 
+# Please, for "Targeting neurodegeneration: three machine learning methods for G9a inhibitors discovery using PubChem and scikit-learn",  plese, go to
 https://github.com/articlesmli/G9a_Inhibitors_efficacy/tree/main 
 
 # --------------------------------------------------------------
 
-##  IUPAC-Induced Computational Approaches for Identifying Boosters of Small Biomolecule Functionality: A Case Study of Human Tyrosyl-DNA Phosphodiesterase 1 (TDP1) Inhibitors"
+## The current repository is for:
+## IUPAC-Induced Computational Approaches for Identifying Boosters of Small Biomolecule Functionality: A Case Study of Human Tyrosyl-DNA Phosphodiesterase 1 (TDP1) Inhibitors"
 
 https://doi.org/10.48550/arXiv.2503.05591
 
