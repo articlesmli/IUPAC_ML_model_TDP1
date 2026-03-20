@@ -6,7 +6,7 @@ Please, for "Targeting neurodegeneration: three machine learning methods for G9a
 # -----------------
 
 ## The current repository is for:
-IUPAC-Induced Computational Approaches for Identifying Boosters of Small Biomolecule Functionality: A Case Study of Human Tyrosyl-DNA Phosphodiesterase 1 (TDP1) Inhibitors", available at  https://doi.org/10.1016/j.compbiomed.2026.111531
+IUPAC-Induced Computational Approaches for Identifying Boosters of Small Biomolecule Functionality: A Case Study of Human Tyrosyl-DNA Phosphodiesterase 1 (TDP1) Inhibitors", available at the Computers in Biology and Medicine journal,  https://doi.org/10.1016/j.compbiomed.2026.111531
 
 Final results: 
 - The most desirable functional grpoup/fragment: https://github.com/articlesmli/IUPAC_ML_model_TDP1/blob/main/IUPAC_ML_model/5.5.TDP1_group_all_dfs.ipynb
