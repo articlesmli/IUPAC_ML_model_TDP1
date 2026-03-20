@@ -1,7 +1,7 @@
 
 # A note: 
 
-Please, for "Targeting neurodegeneration: three machine learning methods for G9a inhibitors discovery using PubChem and scikit-learn", available at the Computer-Aided Molecular Design  journal please, go to https://github.com/articlesmli/G9a_Inhibitors_efficacy/tree/main 
+Please, for "Targeting neurodegeneration: three machine learning methods for G9a inhibitors discovery using PubChem and scikit-learn", available at the Computer-Aided Molecular Design  journal, please, go to https://github.com/articlesmli/G9a_Inhibitors_efficacy/tree/main 
 
 # -----------------
 
